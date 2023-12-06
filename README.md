@@ -47,14 +47,10 @@ The React Step Form Project is a web application that guides users through a mul
 4. Start the development server.
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and visit [http://localhost:5173](http://localhost:5173) to experience the React Step Form.
-
-## Screenshots
-
-![React Step Form Screenshot](./screenshot.png)
 
 ## Project Structure
 
